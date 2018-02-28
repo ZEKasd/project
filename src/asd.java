@@ -16,6 +16,6 @@ y=Double.parseDouble(st);
         System.out.println("strDouble="+st);
         String str;
         str="num"+345;
-        System.out.println(str+"Hi");
+        System.out.println(str);
     }
     }
